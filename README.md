@@ -1,11 +1,3 @@
-좋아, 네가 적어준 7개 과목 기준으로 **최상위 README.md**를 깔끔하게 만들어 놨어.
-바로 내려받아서 레포 최상단에 넣으면 끝!
-
-[📄 CS\_README.md 다운로드](sandbox:/mnt/data/CS_README.md)
-
-혹시 미리 보기 원하면, 아래 마크다운을 그대로 복붙해도 돼.
-
----
 
 # 🎓 CS Interview Hub
 
