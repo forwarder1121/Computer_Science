@@ -76,18 +76,3 @@
 ```
 
 ---
-
-## 🔗 링크 모음(복사용)
-
-> 아래 블록을 **그대로 복붙**하면 각 과목 하위 README나 본문 어디서든 바로 클릭 가능한 링크가 됩니다.
-
-```md
--   운영체제: 김덕수 교수님 OS 강의 모음 — https://hpclab.tistory.com/1?category=887083
--   네트워크: 한양대 이석복 ‘컴퓨터네트워크’(KOCW 메인) — https://www.kocw.net/home/college/cview.do?cid=6166c077e545b736
--   자료구조: 건국대 남원홍 ‘자료구조’(KOCW) — https://www.kocw.net/home/cview.do?kemId=1190355
--   알고리즘: 건국대 김강일 ‘알고리즘’(KOCW) — https://www.kocw.net/home/cview.do?kemId=1278171
--   데이터베이스: 가톨릭대 황병연 ‘데이터베이스설계’(KOCW) — https://kocw.net/home/cview.do?kemId=1207109
--   소프트웨어공학: 동국대 조영석 ‘소프트웨어공학’(KOCW) — https://www.kocw.net/home/cview.do?kemId=1045594
--   Java/Spring(영상): Spring Boot 강의 플레이리스트 — https://www.youtube.com/playlist?list=PLlTylS8uB2fBOi6uzvMpojFrNe7sRmlzU
--   Java/Spring(소스): Around Hub Studio 예제 레포 — https://github.com/Around-Hub-Studio/around-hub-spring-boot
-```
