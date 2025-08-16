@@ -41,15 +41,17 @@
 
 ---
 
-## 📚 학습 리소스 (과목별 대표 강의)
+## 📚 학습 리소스
 
--   **운영체제**: 김덕수 교수님 OS 강의 모음(슬라이드+YouTube). 커널/프로세스/스레드/VM까지 정통 커리큘럼. ([HPC Lab.][1])
--   **네트워크**: 한양대 이석복 교수님 _컴퓨터네트워크_ (KOCW). 2015-2/2018-2판, Top-Down 구성·수강 통계·평점 공개(2015-2: 조회수·평점 있음). ([kocw.net][2])
--   **자료구조**: 건국대 남원홍 교수님 _자료구조_ (KOCW). 전공 표준 커리큘럼으로 실습 병행. ([kocw.net][3])
--   **알고리즘**: 건국대 김강일 교수님 _알고리즘_ (KOCW). 설계기법·그래프·문제적용 중심. ([kocw.net][4])
--   **데이터베이스**: 가톨릭대 황병연 교수님 _데이터베이스설계_ (KOCW). RDBMS 구조·연산·설계·구현 기법. ([kocw.net][5])
--   **소프트웨어 공학**: 동국대 조영석 교수님 _소프트웨어공학_ (KOCW). SW 생애주기·요구/설계/품질 개론. ([kocw.net][6])
--   **Java / Spring**: Around Hub Studio _Spring Boot_ 강의(YouTube) + 예제 GitHub 레포. 프로젝트 생성/구조/구성 연계 실습. ([YouTube][7], [GitHub][8])
+| 과목            | 강의                               | 링크                                                                                                                                                        |
+| --------------- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 운영체제        | 김덕수 교수님 OS                   | [HPC Lab](https://hpclab.tistory.com/1?category=887083)                                                                                                     |
+| 네트워크        | 한양대 이석복 - 컴퓨터네트워크     | [KOCW](https://www.kocw.net/home/college/cview.do?cid=6166c077e545b736)                                                                                     |
+| 자료구조        | 건국대 남원홍 - 자료구조           | [KOCW](https://www.kocw.net/home/cview.do?kemId=1190355)                                                                                                    |
+| 알고리즘        | 건국대 김강일 - 알고리즘           | [KOCW](https://www.kocw.net/home/cview.do?kemId=1278171)                                                                                                    |
+| 데이터베이스    | 가톨릭대 황병연 - 데이터베이스설계 | [KOCW](https://kocw.net/home/cview.do?kemId=1207109)                                                                                                        |
+| 소프트웨어 공학 | 동국대 조영석 - 소프트웨어공학     | [KOCW](https://www.kocw.net/home/cview.do?kemId=1045594)                                                                                                    |
+| Java / Spring   | Around Hub Studio - Spring Boot    | [YouTube](https://www.youtube.com/playlist?list=PLlTylS8uB2fBOi6uzvMpojFrNe7sRmlzU) · [GitHub](https://github.com/Around-Hub-Studio/around-hub-spring-boot) |
 
 ---
 
@@ -89,16 +91,3 @@
 -   Java/Spring(영상): Spring Boot 강의 플레이리스트 — https://www.youtube.com/playlist?list=PLlTylS8uB2fBOi6uzvMpojFrNe7sRmlzU
 -   Java/Spring(소스): Around Hub Studio 예제 레포 — https://github.com/Around-Hub-Studio/around-hub-spring-boot
 ```
-
----
-
-필요하면 각 **하위 README**에 위 링크/커리큘럼을 바로 박아 넣은 템플릿도 만들어줄게.
-
-[1]: https://hpclab.tistory.com/1?utm_source=chatgpt.com "운영체제 강의 모음 (슬라이드 & YouTube 링크) - HPC Lab."
-[2]: https://www.kocw.net/home/college/cview.do?cid=6166c077e545b736&utm_source=chatgpt.com "컴퓨터네트워크"
-[3]: https://www.kocw.net/home/cview.do?ar=pop&kemId=1190355&mty=p&utm_source=chatgpt.com "자료구조 - 건국대학교 | KOCW 공개 강의"
-[4]: https://www.kocw.net/home/cview.do?kemId=1278171&lid=1278172&mty=p&utm_source=chatgpt.com "알고리즘 - 건국대학교 | KOCW 공개 강의"
-[5]: https://kocw.net/home/cview.do?ar=relateCourse&kemId=1207109&mty=p&utm_source=chatgpt.com "데이터베이스 설계 - 가톨릭대학교 | KOCW 공개 강의"
-[6]: https://www.kocw.net/home/cview.do?kemId=1045594&mty=p&utm_source=chatgpt.com "소프트웨어공학 - 동국대학교 | KOCW 공개 강의"
-[7]: https://www.youtube.com/playlist?list=PLlTylS8uB2fBOi6uzvMpojFrNe7sRmlzU&utm_source=chatgpt.com "스프링 부트 (Spring Boot) 강의"
-[8]: https://github.com/Around-Hub-Studio/around-hub-spring-boot?utm_source=chatgpt.com "Around-Hub-Studio/around-hub-spring-boot"
