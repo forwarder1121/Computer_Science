@@ -47,7 +47,7 @@
 
 ## 📚 학습 리소스
 - 강의: [김덕수 교수님 운영체제 (YouTube Playlist)](https://www.youtube.com/watch?v=EdTtGv9w2sA&list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN)
-- 참고 교재: *Operating System Concepts (Silberschatz)*, 공룡책
+- 참고 교재: *쉽게 배우는 운영체제(조성호)*,
 - 면접 대비: Tech Interview Handbook, CS Interview Repo
 
 ---
