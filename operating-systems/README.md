@@ -11,7 +11,7 @@
 
 | No. | 챕터 | 상태 | 링크 |
 |-----|------|------|------|
-| 01 | 운영체제 개요 | ⏳ | [01-introduction](./01-introduction/README.md) |
+| 01 | 운영체제 개요 | 🔄 | [01-introduction](./01-introduction/README.md) |
 | 02 | 프로세스와 스레드 | ⏳ | [02-process-thread](./02-process-thread/README.md) |
 | 03 | CPU 스케줄링 | ⏳ | [03-cpu-scheduling](./03-cpu-scheduling/README.md) |
 | 04 | 동기화 | ⏳ | [04-synchronization](./04-synchronization/README.md) |
@@ -25,7 +25,7 @@
 ## 🗓️ 학습 체크리스트
 
 ### part 1
-- [ ] 01. 운영체제 개요
+- [x] 01. 운영체제 개요
 - [ ] 02. 프로세스와 스레드 (1)
 - [ ] 02. 프로세스와 스레드 (2)
 - [ ] 03. CPU 스케줄링 (1)
