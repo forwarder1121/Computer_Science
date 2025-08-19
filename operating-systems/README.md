@@ -28,7 +28,75 @@
 
 ## 🗓️ 학습 체크리스트 (강의 단위)
 
-*(생략 — 위에서 작성한 체크리스트 그대로 유지)*
+## 🗓️ 학습 체크리스트 (강의 단위)
+
+### Part 1: 운영체제 개요
+- [x] Lec 1. Computer System Overview
+- [ ] Lec 2. OS Overview (1/3)
+- [ ] Lec 2. OS Overview (2/3)
+- [ ] Lec 2. OS Overview (3/3)
+
+### Part 2: 프로세스와 스레드
+- [ ] Lec 3. Process Management (1/2)
+- [ ] Lec 3. Process Management (2/2)
+- [ ] Lec 4. Thread Management
+
+### Part 3: CPU 스케줄링
+- [ ] Lec 5. Process Scheduling (1/4)
+- [ ] Lec 5. Process Scheduling (2/4) - FCFS, RR
+- [ ] Lec 5. Process Scheduling (3/4) - SPN, SRTN, HRRN
+- [ ] Lec 5. Process Scheduling (4/4) - MLQ, MFQ
+
+### Part 4: 동기화
+- [ ] Lec 6. Synchronization (1/7) - Intro
+- [ ] Lec 6. Synchronization (2/7) - SW solutions
+- [ ] Lec 6. Synchronization (3/7) - HW solution
+- [ ] Lec 6. Synchronization (4/7) - Spinlock
+- [ ] Lec 6. Synchronization (5/7) - Semaphore
+- [ ] Lec 6. Synchronization (6/7) - Eventcount/Sequencer
+- [ ] Lec 6. Synchronization (7/7) - Monitor
+
+### Part 5: 교착상태 (Deadlock)
+- [ ] Lec 7. Deadlock (1/5) - Deadlock and Resource types
+- [ ] Lec 7. Deadlock (2/5) - Deadlock model
+- [ ] Lec 7. Deadlock (3/5) - Deadlock Prevention
+- [ ] Lec 7. Deadlock (4/5) - Deadlock Avoidance
+- [ ] Lec 7. Deadlock (5/5) - Deadlock Detection & Recovery
+
+### Part 6: 메모리 관리
+- [ ] Lec 8. Memory Management (1/3) - Backgrounds
+- [ ] Lec 8. Memory Management (2/3) - Fixed Partition
+- [ ] Lec 8. Memory Management (3/3) - Variable Partition
+
+### Part 7: 가상 메모리
+- [ ] Lec 9. Virtual Memory (1/5) - Non-continuous allocation
+- [ ] Lec 9. Virtual Memory (2/5) - Paging (1)
+- [ ] Lec 9. Virtual Memory (3/5) - Paging (2)
+- [ ] Lec 9. Virtual Memory (4/5) - Segmentation
+- [ ] Lec 9. Virtual Memory (5/5) - Hybrid Paging-Segmentation
+
+### Part 8: 가상 메모리 관리
+- [ ] Lec 10. VM Management (1/6) - Cost model, HW components
+- [ ] Lec 10. VM Management (2/6) - SW components
+- [ ] Lec 10. VM Management (3/6) - Replacement (Fixed 1)
+- [ ] Lec 10. VM Management (4/6) - Replacement (Fixed 2)
+- [ ] Lec 10. VM Management (5/6) - Replacement (Variable)
+- [ ] Lec 10. VM Management (6/6) - Other considerations
+
+### Part 9: 파일 시스템 & 저장장치
+- [ ] Lec 11-1. Disk System
+- [ ] Lec 11-2. File System Overview
+- [ ] Lec 11-3. Directory Structure
+- [ ] Lec 11-4. File Protection
+- [ ] Lec 11-5. File System Implementation
+
+### Part 10: I/O 시스템 & 디스크 스케줄링
+- [ ] Lec 12-1. I/O System
+- [ ] Lec 12-2. Disk Scheduling
+- [ ] Lec 12-3. RAID Architecture
+
+### Part 11: 마무리
+- [ ] Lec 13. 마무리 인사 (총정리)
 
 ---
 
