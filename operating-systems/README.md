@@ -10,7 +10,7 @@
 
 | No. | 챕터 | 상태 | 링크 |
 |-----|------|------|------|
-| 01 | 컴퓨터 시스템 개요 | ⏳ | [01-introduction](./01-introduction/README.md) |
+| 01 | 컴퓨터 시스템 개요 | 🔄 | [01-introduction](./01-introduction/README.md) |
 | 02 | 운영체제 개요 | ⏳ | [02-os-overview](./02-os-overview/README.md) |
 | 03 | 프로세스 관리 | ⏳ | [03-process-management](./03-process-management/README.md) |
 | 04 | 스레드 관리 | ⏳ | [04-thread-management](./04-thread-management/README.md) |
@@ -26,7 +26,6 @@
 
 ---
 
-## 🗓️ 학습 체크리스트 (강의 단위)
 
 ## 🗓️ 학습 체크리스트 (강의 단위)
 
