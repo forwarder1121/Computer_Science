@@ -11,7 +11,7 @@
 
 | No. | 과목             | 폴더 링크                                                                                  | 상태 |
 | --: | ---------------- | ------------------------------------------------------------------------------------------ | :--: |
-|  01 | 운영체제(OS)     | [`operating-systems/README.md`](operating-systems/README.md)                               |  ⏳  |
+|  01 | 운영체제(OS)     | [`operating-systems/README.md`](operating-systems/README.md)                               |  🔄  |
 |  02 | 네트워크         | [`computer-networks/README.md`](computer-networks/README.md)                               |  ⏳  |
 |  03 | 자료구조         | [`data-structures/README.md`](data-structures/README.md)                                   |  ⏳  |
 |  04 | 알고리즘         | [`algorithms/README.md`](algorithms/README.md)                                             |  ⏳  |
