@@ -115,67 +115,67 @@ operating-systems/
 │
 ├── 01-introduction/          # 컴퓨터 시스템 개요
 │   ├── README.md             # 강의 요약
-│   ├── interview\.md          # 면접 QnA
+│   ├── interview.md          # 면접 QnA
 │   └── notes/                # 손필기 (이미지/스캔)
 │
 ├── 02-os-overview/           # 운영체제 개요
 │   ├── README.md
-│   ├── interview\.md
+│   ├── interview.md
 │   └── notes/
 │
 ├── 03-process-management/    # 프로세스 관리
 │   ├── README.md
-│   ├── interview\.md
+│   ├── interview.md
 │   └── notes/
 │
 ├── 04-thread-management/     # 스레드 관리
 │   ├── README.md
-│   ├── interview\.md
+│   ├── interview.md
 │   └── notes/
 │
 ├── 05-cpu-scheduling/        # CPU 스케줄링
 │   ├── README.md
-│   ├── interview\.md
+│   ├── interview.md
 │   └── notes/
 │
 ├── 06-synchronization/       # 동기화
 │   ├── README.md
-│   ├── interview\.md
+│   ├── interview.md
 │   └── notes/
 │
 ├── 07-deadlock/              # 교착상태
 │   ├── README.md
-│   ├── interview\.md
+│   ├── interview.md
 │   └── notes/
 │
 ├── 08-memory-management/     # 메모리 관리
 │   ├── README.md
-│   ├── interview\.md
+│   ├── interview.md
 │   └── notes/
 │
 ├── 09-virtual-memory/        # 가상 메모리
 │   ├── README.md
-│   ├── interview\.md
+│   ├── interview.md
 │   └── notes/
 │
 ├── 10-virtual-memory-mgmt/   # 가상 메모리 관리
 │   ├── README.md
-│   ├── interview\.md
+│   ├── interview.md
 │   └── notes/
 │
 ├── 11-file-storage/          # 파일 & 저장장치
 │   ├── README.md
-│   ├── interview\.md
+│   ├── interview.md
 │   └── notes/
 │
 ├── 12-io-disk/               # I/O & 디스크
 │   ├── README.md
-│   ├── interview\.md
+│   ├── interview.md
 │   └── notes/
 │
 └── 13-summary/               # 마무리
 ├── README.md
-├── interview\.md
+├── interview.md
 └── notes/
 
 ````
