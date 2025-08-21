@@ -31,9 +31,9 @@
 
 ### Part 1: 운영체제 개요
 - [x] Lec 1. Computer System Overview
-- [ ] Lec 2. OS Overview (1/3)
-- [ ] Lec 2. OS Overview (2/3)
-- [ ] Lec 2. OS Overview (3/3)
+- [x] Lec 2. OS Overview (1/3)
+- [x] Lec 2. OS Overview (2/3)
+- [x] Lec 2. OS Overview (3/3)
 
 ### Part 2: 프로세스와 스레드
 - [ ] Lec 3. Process Management (1/2)
