@@ -36,9 +36,9 @@
 - [x] Lec 2. OS Overview (3/3)
 
 ### Part 2: 프로세스와 스레드
-- [ ] Lec 3. Process Management (1/2)
-- [ ] Lec 3. Process Management (2/2)
-- [ ] Lec 4. Thread Management
+- [x] Lec 3. Process Management (1/2)
+- [x] Lec 3. Process Management (2/2)
+- [x] Lec 4. Thread Management
 
 ### Part 3: CPU 스케줄링
 - [ ] Lec 5. Process Scheduling (1/4)
