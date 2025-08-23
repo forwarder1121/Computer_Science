@@ -41,7 +41,7 @@
 - [x] Lec 4. Thread Management
 
 ### Part 3: CPU 스케줄링
-- [ ] Lec 5. Process Scheduling (1/4)
+- [x] Lec 5. Process Scheduling (1/4)
 - [ ] Lec 5. Process Scheduling (2/4) - FCFS, RR
 - [ ] Lec 5. Process Scheduling (3/4) - SPN, SRTN, HRRN
 - [ ] Lec 5. Process Scheduling (4/4) - MLQ, MFQ
