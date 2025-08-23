@@ -65,4 +65,4 @@
 ---
 
 ## ✍️ 강의 필기
-- [04-thread-management-2025-08-23-1.jpg](./notes/04-thread-management-2025-08-23-1.jpg)
+- [04-thread-management-2025-08-23-1.jpg](./notes/03-process-management-2025-08-22-1.jpeg)
