@@ -13,8 +13,8 @@
 | 01 | 컴퓨터 시스템 개요 | ✅  | [01-introduction](./01-introduction/README.md) |
 | 02 | 운영체제 개요 | ✅  | [02-os-overview](./02-os-overview/README.md) |
 | 03 | 프로세스 관리 | ✅ | [03-process-management](./03-process-management/README.md) |
-| 04 | 스레드 관리 | ⏳ | [04-thread-management](./04-thread-management/README.md) |
-| 05 | CPU 스케줄링 | ⏳ | [05-cpu-scheduling](./05-cpu-scheduling/README.md) |
+| 04 | 스레드 관리 | ✅ | [04-thread-management](./04-thread-management/README.md) |
+| 05 | CPU 스케줄링 | 🔄 | [05-cpu-scheduling](./05-cpu-scheduling/README.md) |
 | 06 | 동기화 | ⏳ | [06-synchronization](./06-synchronization/README.md) |
 | 07 | 교착상태 (Deadlock) | ⏳ | [07-deadlock](./07-deadlock/README.md) |
 | 08 | 메모리 관리 | ⏳ | [08-memory-management](./08-memory-management/README.md) |
