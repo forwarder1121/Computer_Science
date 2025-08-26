@@ -42,18 +42,18 @@
 
 ### Part 3: CPU 스케줄링
 - [x] Lec 5. Process Scheduling (1/4)
-- [ ] Lec 5. Process Scheduling (2/4) - FCFS, RR
-- [ ] Lec 5. Process Scheduling (3/4) - SPN, SRTN, HRRN
-- [ ] Lec 5. Process Scheduling (4/4) - MLQ, MFQ
+- [x] Lec 5. Process Scheduling (2/4) - FCFS, RR
+- [x] Lec 5. Process Scheduling (3/4) - SPN, SRTN, HRRN
+- [x] Lec 5. Process Scheduling (4/4) - MLQ, MFQ
 
 ### Part 4: 동기화
-- [ ] Lec 6. Synchronization (1/7) - Intro
-- [ ] Lec 6. Synchronization (2/7) - SW solutions
-- [ ] Lec 6. Synchronization (3/7) - HW solution
-- [ ] Lec 6. Synchronization (4/7) - Spinlock
-- [ ] Lec 6. Synchronization (5/7) - Semaphore
-- [ ] Lec 6. Synchronization (6/7) - Eventcount/Sequencer
-- [ ] Lec 6. Synchronization (7/7) - Monitor
+- [x] Lec 6. Synchronization (1/7) - Intro
+- [x] Lec 6. Synchronization (2/7) - SW solutions
+- [x] Lec 6. Synchronization (3/7) - HW solution
+- [x] Lec 6. Synchronization (4/7) - Spinlock
+- [x] Lec 6. Synchronization (5/7) - Semaphore
+- [x] Lec 6. Synchronization (6/7) - Eventcount/Sequencer
+- [x] Lec 6. Synchronization (7/7) - Monitor
 
 ### Part 5: 교착상태 (Deadlock)
 - [ ] Lec 7. Deadlock (1/5) - Deadlock and Resource types
