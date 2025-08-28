@@ -56,11 +56,11 @@
 - [x] Lec 6. Synchronization (7/7) - Monitor
 
 ### Part 5: 교착상태 (Deadlock)
-- [ ] Lec 7. Deadlock (1/5) - Deadlock and Resource types
-- [ ] Lec 7. Deadlock (2/5) - Deadlock model
-- [ ] Lec 7. Deadlock (3/5) - Deadlock Prevention
-- [ ] Lec 7. Deadlock (4/5) - Deadlock Avoidance
-- [ ] Lec 7. Deadlock (5/5) - Deadlock Detection & Recovery
+- [x] Lec 7. Deadlock (1/5) - Deadlock and Resource types
+- [x] Lec 7. Deadlock (2/5) - Deadlock model
+- [x] Lec 7. Deadlock (3/5) - Deadlock Prevention
+- [x] Lec 7. Deadlock (4/5) - Deadlock Avoidance
+- [x] Lec 7. Deadlock (5/5) - Deadlock Detection & Recovery
 
 ### Part 6: 메모리 관리
 - [ ] Lec 8. Memory Management (1/3) - Backgrounds
