@@ -16,7 +16,7 @@
 | 04 | 스레드 관리 | ✅ | [04-thread-management](./04-thread-management/README.md) |
 | 05 | CPU 스케줄링 | ✅ | [05-cpu-scheduling](./05-cpu-scheduling/README.md) |
 | 06 | 동기화 | ✅ | [06-synchronization](./06-synchronization/README.md) |
-| 07 | 교착상태 (Deadlock) | ⏳ | [07-deadlock](./07-deadlock/README.md) |
+| 07 | 교착상태 (Deadlock) | ✅ | [07-deadlock](./07-deadlock/README.md) |
 | 08 | 메모리 관리 | ⏳ | [08-memory-management](./08-memory-management/README.md) |
 | 09 | 가상 메모리 | ⏳ | [09-virtual-memory](./09-virtual-memory/README.md) |
 | 10 | 가상 메모리 관리 | ⏳ | [10-virtual-memory-mgmt](./10-virtual-memory-mgmt/README.md) |
