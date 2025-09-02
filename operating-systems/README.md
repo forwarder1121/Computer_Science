@@ -18,8 +18,8 @@
 | 06 | 동기화 | ✅ | [06-synchronization](./06-synchronization/README.md) |
 | 07 | 교착상태 (Deadlock) | ✅ | [07-deadlock](./07-deadlock/README.md) |
 | 08 | 메모리 관리 | ✅ | [08-memory-management](./08-memory-management/README.md) |
-| 09 | 가상 메모리 | ⏳ | [09-virtual-memory](./09-virtual-memory/README.md) |
-| 10 | 가상 메모리 관리 | ⏳ | [10-virtual-memory-mgmt](./10-virtual-memory-mgmt/README.md) |
+| 09 | 가상 메모리 | ✅ | [09-virtual-memory](./09-virtual-memory/README.md) |
+| 10 | 가상 메모리 관리 | ✅ | [10-virtual-memory-mgmt](./10-virtual-memory-mgmt/README.md) |
 | 11 | 파일 & 저장장치 | ⏳ | [11-file-storage](./11-file-storage/README.md) |
 | 12 | I/O 시스템 & 디스크 스케줄링 | ⏳ | [12-io-disk](./12-io-disk/README.md) |
 | 13 | 마무리 | ⏳ | [13-summary](./13-summary/README.md) |
@@ -63,9 +63,9 @@
 - [x] Lec 7. Deadlock (5/5) - Deadlock Detection & Recovery
 
 ### Part 6: 메모리 관리
-- [ ] Lec 8. Memory Management (1/3) - Backgrounds
-- [ ] Lec 8. Memory Management (2/3) - Fixed Partition
-- [ ] Lec 8. Memory Management (3/3) - Variable Partition
+- [x] Lec 8. Memory Management (1/3) - Backgrounds
+- [x] Lec 8. Memory Management (2/3) - Fixed Partition
+- [x] Lec 8. Memory Management (3/3) - Variable Partition
 
 ### Part 7: 가상 메모리
 - [x] Lec 9. Virtual Memory (1/5) - Non-continuous allocation
@@ -75,12 +75,12 @@
 - [x] Lec 9. Virtual Memory (5/5) - Hybrid Paging-Segmentation
 
 ### Part 8: 가상 메모리 관리
-- [ ] Lec 10. VM Management (1/6) - Cost model, HW components
-- [ ] Lec 10. VM Management (2/6) - SW components
-- [ ] Lec 10. VM Management (3/6) - Replacement (Fixed 1)
-- [ ] Lec 10. VM Management (4/6) - Replacement (Fixed 2)
-- [ ] Lec 10. VM Management (5/6) - Replacement (Variable)
-- [ ] Lec 10. VM Management (6/6) - Other considerations
+- [x] Lec 10. VM Management (1/6) - Cost model, HW components
+- [x] Lec 10. VM Management (2/6) - SW components
+- [x] Lec 10. VM Management (3/6) - Replacement (Fixed 1)
+- [x] Lec 10. VM Management (4/6) - Replacement (Fixed 2)
+- [x] Lec 10. VM Management (5/6) - Replacement (Variable)
+- [x] Lec 10. VM Management (6/6) - Other considerations
 
 ### Part 9: 파일 시스템 & 저장장치
 - [ ] Lec 11-1. Disk System
