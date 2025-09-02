@@ -158,7 +158,7 @@ operating-systems/
 │   ├── interview.md
 │   └── notes/
 │
-├── 10-virtual-memory-mgmt/   # 가상 메모리 관리
+├── 10-virtual-memory-management/   # 가상 메모리 관리
 │   ├── README.md
 │   ├── interview.md
 │   └── notes/
