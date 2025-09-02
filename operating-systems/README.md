@@ -68,11 +68,11 @@
 - [ ] Lec 8. Memory Management (3/3) - Variable Partition
 
 ### Part 7: 가상 메모리
-- [ ] Lec 9. Virtual Memory (1/5) - Non-continuous allocation
-- [ ] Lec 9. Virtual Memory (2/5) - Paging (1)
-- [ ] Lec 9. Virtual Memory (3/5) - Paging (2)
-- [ ] Lec 9. Virtual Memory (4/5) - Segmentation
-- [ ] Lec 9. Virtual Memory (5/5) - Hybrid Paging-Segmentation
+- [x] Lec 9. Virtual Memory (1/5) - Non-continuous allocation
+- [x] Lec 9. Virtual Memory (2/5) - Paging (1)
+- [x] Lec 9. Virtual Memory (3/5) - Paging (2)
+- [x] Lec 9. Virtual Memory (4/5) - Segmentation
+- [x] Lec 9. Virtual Memory (5/5) - Hybrid Paging-Segmentation
 
 ### Part 8: 가상 메모리 관리
 - [ ] Lec 10. VM Management (1/6) - Cost model, HW components
