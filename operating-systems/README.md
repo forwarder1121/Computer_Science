@@ -20,7 +20,7 @@
 | 08 | 메모리 관리 | ✅ | [08-memory-management](./08-memory-management/README.md) |
 | 09 | 가상 메모리 | ✅ | [09-virtual-memory](./09-virtual-memory/README.md) |
 | 10 | 가상 메모리 관리 | ✅ | [10-virtual-memory-mgmt](./10-virtual-memory-mgmt/README.md) |
-| 11 | 파일 & 저장장치 | ⏳ | [11-file-storage](./11-file-storage/README.md) |
+| 11 | 파일 & 저장장치 | 🔄 | [11-file-storage](./11-file-storage/README.md) |
 | 12 | I/O 시스템 & 디스크 스케줄링 | ⏳ | [12-io-disk](./12-io-disk/README.md) |
 | 13 | 마무리 | ⏳ | [13-summary](./13-summary/README.md) |
 
@@ -83,11 +83,11 @@
 - [x] Lec 10. VM Management (6/6) - Other considerations
 
 ### Part 9: 파일 시스템 & 저장장치
-- [ ] Lec 11-1. Disk System
-- [ ] Lec 11-2. File System Overview
-- [ ] Lec 11-3. Directory Structure
-- [ ] Lec 11-4. File Protection
-- [ ] Lec 11-5. File System Implementation
+- [x] Lec 11-1. Disk System
+- [x] Lec 11-2. File System Overview
+- [x] Lec 11-3. Directory Structure
+- [x] Lec 11-4. File Protection
+- [x] Lec 11-5. File System Implementation
 
 ### Part 10: I/O 시스템 & 디스크 스케줄링
 - [ ] Lec 12-1. I/O System
