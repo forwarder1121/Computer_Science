@@ -8,6 +8,8 @@
 ## 📌 학습 현황
 상태 이모지: ⏳ 미시작 · 🔄 진행 · ✅ 1회독 · ✅✅ 2회독 · 🔁 재복습 · 🚀 완숙
 
+📅 1회독: 2025년 8월 20일 ~ 2025년 9월 5일 완료
+
 | No. | 챕터 | 상태 | 링크 |
 |-----|------|------|------|
 | 01 | 컴퓨터 시스템 개요 | ✅  | [01-introduction](./01-introduction/README.md) |
@@ -20,9 +22,9 @@
 | 08 | 메모리 관리 | ✅ | [08-memory-management](./08-memory-management/README.md) |
 | 09 | 가상 메모리 | ✅ | [09-virtual-memory](./09-virtual-memory/README.md) |
 | 10 | 가상 메모리 관리 | ✅ | [10-virtual-memory-mgmt](./10-virtual-memory-mgmt/README.md) |
-| 11 | 파일 & 저장장치 | 🔄 | [11-file-storage](./11-file-storage/README.md) |
-| 12 | I/O 시스템 & 디스크 스케줄링 | ⏳ | [12-io-disk](./12-io-disk/README.md) |
-| 13 | 마무리 | ⏳ | [13-summary](./13-summary/README.md) |
+| 11 | 파일 & 저장장치 | ✅ | [11-file-storage](./11-file-storage/README.md) |
+| 12 | I/O 시스템 & 디스크 스케줄링 | ✅ | [12-io-disk](./12-io-disk/README.md) |
+| 13 | 마무리 | ✅ | [13-summary](./13-summary/README.md) |
 
 ---
 
@@ -90,12 +92,12 @@
 - [x] Lec 11-5. File System Implementation
 
 ### Part 10: I/O 시스템 & 디스크 스케줄링
-- [ ] Lec 12-1. I/O System
-- [ ] Lec 12-2. Disk Scheduling
-- [ ] Lec 12-3. RAID Architecture
+- [x] Lec 12-1. I/O System
+- [x] Lec 12-2. Disk Scheduling
+- [x] Lec 12-3. RAID Architecture
 
 ### Part 11: 마무리
-- [ ] Lec 13. 마무리 인사 (총정리)
+- [x] Lec 13. 마무리 인사 (총정리)
 
 ---
 
