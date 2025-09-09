@@ -13,8 +13,8 @@
 
 | No. | 챕터         | 상태 | 링크                                                       |
 | --- | ---------- | -- | -------------------------------------------------------- |
-| 01  | 네트워크 개요    | 🔄 | [01-overview](./01-overview/README.md)                   |
-| 02  | 애플리케이션 계층  | ⏳  | [02-application-layer](./02-application-layer/README.md) |
+| 01  | 네트워크 개요    | ✅ | [01-overview](./01-overview/README.md)                   |
+| 02  | 애플리케이션 계층  | 🔄  | [02-application-layer](./02-application-layer/README.md) |
 | 03  | 전송계층       | ⏳  | [03-transport-layer](./03-transport-layer/README.md)     |
 | 04  | 네트워크 계층    | ⏳  | [04-network-layer](./04-network-layer/README.md)         |
 | 05  | 링크 계층      | ⏳  | [05-link-layer](./05-link-layer/README.md)               |
@@ -33,12 +33,12 @@
 
 ---
 
-## 🗓️ 학습 체크리스트 (강의 단위)
+## 🗓️ 학습 체크리스트 
 
 ### Part 0: 네트워크 개요
 
-* [ ] Lec 1. 컴퓨터네트워크 기본 (1) — 인터넷 역사, 네트워크 개념
-* [ ] Lec 2. 컴퓨터네트워크 기본 (2) — 프로토콜 스택, 표준화
+* [x] Lec 1. 컴퓨터네트워크 기본 (1) — 인터넷 역사, 네트워크 개념
+* [x] Lec 2. 컴퓨터네트워크 기본 (2) — 프로토콜 스택, 표준화
 
 ### Part 1: 애플리케이션 계층
 
