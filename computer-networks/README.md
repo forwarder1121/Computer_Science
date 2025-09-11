@@ -15,7 +15,7 @@
 | No. | 챕터         | 상태 | 링크                                                       |
 | --- | ------------ | ---- | ---------------------------------------------------------- |
 | 01  | 네트워크 개요    | ✅   | [01-overview](./01-overview/README.md)                   |
-| 02  | 애플리케이션 계층 | 🔄   | [02-application-layer](./02-application-layer/README.md) |
+| 02  | 애플리케이션 계층 | ✅   | [02-application-layer](./02-application-layer/README.md) |
 | 03  | 전송계층       | ⏳   | [03-transport-layer](./03-transport-layer/README.md)     |
 | 04  | 네트워크 계층    | ⏳   | [04-network-layer](./04-network-layer/README.md)         |
 | 05  | 링크 계층      | ⏳   | [05-link-layer](./05-link-layer/README.md)               |
@@ -33,8 +33,8 @@
 - [x] Lec 2. 컴퓨터네트워크 기본 (2) — 프로토콜 스택, 표준화
 
 ### Part 1: 애플리케이션 계층
-- [ ] Lec 3. 애플리케이션 계층 (1) — 애플리케이션 유형, 클라이언트/서버, P2P
-- [ ] Lec 4. 애플리케이션 계층 (2) — 소켓 프로그래밍, UDP/TCP 소켓
+- [x] Lec 3. 애플리케이션 계층 (1) — 애플리케이션 유형, 클라이언트/서버, P2P
+- [x] Lec 4. 애플리케이션 계층 (2) — 소켓 프로그래밍, UDP/TCP 소켓
 
 ---
 
