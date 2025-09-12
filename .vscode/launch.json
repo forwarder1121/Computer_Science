@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/forwarder1121/Desktop/CS/Computer_Science/computer-networks/labs",
+      "program": "/Users/forwarder1121/Desktop/CS/Computer_Science/computer-networks/labs/build/Debug/outDebug"
+    }
+  ]
+}
