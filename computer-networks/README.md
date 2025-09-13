@@ -39,8 +39,8 @@
 ### Part 2: 전송계층
 - [x] Lec 5. 전송계층 (1) — 전송 서비스, 다중화/역다중화, UDP  
 - [x] Lec 6. 전송계층 (2) — TCP: 연결 관리(3/4-way), 신뢰 전송  
-- [ ] Lec 7. 전송계층 (3) — 혼잡 제어 (원리, AIMD, Tahoe/Reno 등)  
-- [ ] Lec 8. 전송계층 (4) — 혼잡 제어 (계속), RTT/Throughput, BDP  
+- [x] Lec 7. 전송계층 (3) — 혼잡 제어 (원리, AIMD, Tahoe/Reno 등)  
+- [x] Lec 8. 전송계층 (4) — 혼잡 제어 (계속), RTT/Throughput, BDP  
 
 ### Part 3: 네트워크 계층
 - [ ] Lec 9. 네트워크계층 (1) — 역할, 포워딩 vs 라우팅  
