@@ -17,7 +17,7 @@
 | 01  | 네트워크 개요      | ✅   | [01-overview](./01-overview/README.md)                   |
 | 02  | 애플리케이션 계층   | ✅   | [02-application-layer](./02-application-layer/README.md) |
 | 03  | 전송계층         | ✅   | [03-transport-layer](./03-transport-layer/README.md)     |
-| 04  | 네트워크 계층      | ⏳   | [04-network-layer](./04-network-layer/README.md)         |
+| 04  | 네트워크 계층      | 🔄   | [04-network-layer](./04-network-layer/README.md)         |
 | 05  | 링크 계층        | ⏳   | [05-link-layer](./05-link-layer/README.md)               |
 | 06  | 무선이동네트워크   | ⏳   | [06-wireless](./06-wireless/README.md)                   |
 | 07  | 멀티미디어 네트워크 | ⏳   | [07-multimedia](./07-multimedia/README.md)               |
@@ -43,7 +43,7 @@
 - [x] Lec 8. 전송계층 (4) — 혼잡 제어 (계속), RTT/Throughput, BDP  
 
 ### Part 3: 네트워크 계층
-- [ ] Lec 9. 네트워크계층 (1) — 역할, 포워딩 vs 라우팅  
+- [x] Lec 9. 네트워크계층 (1) — 역할, 포워딩 vs 라우팅  
 - [ ] Lec 10. 네트워크계층 (2) — IP: 주소, 서브넷, NAT, DHCP, ICMP  
 - [ ] Lec 11. 네트워크계층 (3) — 라우팅: 링크 상태(LS)  
 - [ ] Lec 12. 네트워크계층 (4) — 라우팅: 거리 벡터(DV)  
