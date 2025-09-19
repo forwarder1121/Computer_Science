@@ -17,7 +17,7 @@
 | 01  | 네트워크 개요      | ✅   | [01-overview](./01-overview/README.md)                   |
 | 02  | 애플리케이션 계층   | ✅   | [02-application-layer](./02-application-layer/README.md) |
 | 03  | 전송계층         | ✅   | [03-transport-layer](./03-transport-layer/README.md)     |
-| 04  | 네트워크 계층      | 🔄   | [04-network-layer](./04-network-layer/README.md)         |
+| 04  | 네트워크 계층      | ✅   | [04-network-layer](./04-network-layer/README.md)         |
 | 05  | 링크 계층        | ⏳   | [05-link-layer](./05-link-layer/README.md)               |
 | 06  | 무선이동네트워크   | ⏳   | [06-wireless](./06-wireless/README.md)                   |
 | 07  | 멀티미디어 네트워크 | ⏳   | [07-multimedia](./07-multimedia/README.md)               |
