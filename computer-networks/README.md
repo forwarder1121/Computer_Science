@@ -18,7 +18,7 @@
 | 02  | 애플리케이션 계층   | ✅   | [02-application-layer](./02-application-layer/README.md) |
 | 03  | 전송계층         | ✅   | [03-transport-layer](./03-transport-layer/README.md)     |
 | 04  | 네트워크 계층      | ✅   | [04-network-layer](./04-network-layer/README.md)         |
-| 05  | 링크 계층        | ⏳   | [05-link-layer](./05-link-layer/README.md)               |
+| 05  | 링크 계층        | ✅   | [05-link-layer](./05-link-layer/README.md)               |
 | 06  | 무선이동네트워크   | ⏳   | [06-wireless](./06-wireless/README.md)                   |
 | 07  | 멀티미디어 네트워크 | ⏳   | [07-multimedia](./07-multimedia/README.md)               |
 | 08  | 네트워크 보안      | ⏳   | [08-security](./08-security/README.md)                   |
@@ -51,9 +51,9 @@
 - [x] Lec 14. 네트워크계층 (6) — 계층적 라우팅, 트래픽 엔지니어링  
 
 ### Part 4: 링크 계층
-- [ ] Lec 15. 링크계층 (1) — 오류 검출/정정, ARQ, 신뢰 링크  
-- [ ] Lec 16. 링크계층 (2) — 이더넷, 스위칭, MAC(ALOHA/CSMA/CD)  
-- [ ] Lec 17. 링크계층 (3) — VLAN, STP(스패닝 트리)  
+- [x] Lec 15. 링크계층 (1) — 오류 검출/정정, ARQ, 신뢰 링크  
+- [x] Lec 16. 링크계층 (2) — 이더넷, 스위칭, MAC(ALOHA/CSMA/CD)  
+- [x] Lec 17. 링크계층 (3) — VLAN, STP(스패닝 트리)  
 
 ### Part 5: 무선이동네트워크
 - [ ] Lec 18. 무선 (1) — 무선 채널, 경로 손실/페이딩, SNR  
