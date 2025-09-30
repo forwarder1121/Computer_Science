@@ -19,7 +19,7 @@
 | 03  | 전송계층         | ✅   | [03-transport-layer](./03-transport-layer/README.md)     |
 | 04  | 네트워크 계층      | ✅   | [04-network-layer](./04-network-layer/README.md)         |
 | 05  | 링크 계층        | ✅   | [05-link-layer](./05-link-layer/README.md)               |
-| 06  | 무선이동네트워크   | 🔁   | [06-wireless](./06-wireless/README.md)                   |
+| 06  | 무선이동네트워크   | ✅   | [06-wireless](./06-wireless/README.md)                   |
 | 07  | 멀티미디어 네트워크 | ⏳   | [07-multimedia](./07-multimedia/README.md)               |
 | 08  | 네트워크 보안      | ⏳   | [08-security](./08-security/README.md)                   |
 | 09  | 마무리           | ⏳   | [09-summary](./09-summary/README.md)                     |
@@ -56,9 +56,9 @@
 - [x] Lec 17. 링크계층 (3) — VLAN, STP(스패닝 트리)  
 
 ### Part 5: 무선이동네트워크
-- [ ] Lec 18. 무선 (1) — 무선 채널, 경로 손실/페이딩, SNR  
-- [ ] Lec 19. 무선 (2) — 802.11(Wi-Fi) 프레임, 연합(association)  
-- [ ] Lec 20. 무선 (3) — 셀룰러 개념, 핸드오버, 이동성 관리  
+- [x] Lec 18. 무선 (1) — 무선 채널, 경로 손실/페이딩, SNR  
+- [x] Lec 19. 무선 (2) — 802.11(Wi-Fi) 프레임, 연합(association)  
+- [x] Lec 20. 무선 (3) — 셀룰러 개념, 핸드오버, 이동성 관리  
 
 ### Part 6: 멀티미디어 네트워크
 - [ ] Lec 21. 멀티미디어 — 스트리밍, 지터/버퍼링, ABR, RTP/RTCP  
