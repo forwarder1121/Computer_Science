@@ -20,9 +20,9 @@
 | 04  | 네트워크 계층      | ✅   | [04-network-layer](./04-network-layer/README.md)         |
 | 05  | 링크 계층        | ✅   | [05-link-layer](./05-link-layer/README.md)               |
 | 06  | 무선이동네트워크   | ✅   | [06-wireless](./06-wireless/README.md)                   |
-| 07  | 멀티미디어 네트워크 | ⏳   | [07-multimedia](./07-multimedia/README.md)               |
+| 07  | 멀티미디어 네트워크 | ✅    | [07-multimedia](./07-multimedia/README.md)               |
 | 08  | 네트워크 보안      | ⏳   | [08-security](./08-security/README.md)                   |
-| 09  | 마무리           | ⏳   | [09-summary](./09-summary/README.md)                     |
+
 
 ---
 
