@@ -69,7 +69,7 @@
 ## 🗂️ 폴더 구조
 
 ```
-.
+Computer_Science/
 ├── operating-systems/
 │   └── README.md
 ├── computer-networks/
@@ -82,6 +82,9 @@
 │   └── README.md
 ├── software-engineering-and-testing/
 │   └── README.md
-└── java-and-spring/
-    └── README.md
+├── java-and-spring/
+│   └── README.md
+└── certificates/
+
+
 ```
