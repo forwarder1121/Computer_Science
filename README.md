@@ -54,16 +54,15 @@
 
 ## 📚 학습 리소스
 
-| 과목                  | 강의                              | 링크                                                                                                                                                          |
-| :------------------ | :------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🧠 **운영체제**         | 김덕수 교수님 – Operating System      | [HPC Lab](https://hpclab.tistory.com/1?category=887083)                                                                                                     |
-| 🌐 **컴퓨터 네트워크**     | 한양대 이석복 교수님 – Computer Networks | [KOCW](https://www.kocw.net/home/cview.do?cid=6166c077e545b736)                                                                                             |
-| 🧩 **자료구조**         | 건국대 남원홍 교수님 – 자료구조              | [KOCW](https://www.kocw.net/home/cview.do?kemId=1190355)                                                                                                    |
-| ⚙️ **알고리즘**         | 건국대 김강일 교수님 – 알고리즘              | [KOCW](https://www.kocw.net/home/cview.do?kemId=1278171)                                                                                                    |
-| 🗃️ **데이터베이스**      | 가톨릭대 황병연 교수님 – 데이터베이스 설계        | [KOCW](https://kocw.net/home/cview.do?kemId=1207109)                                                                                                        |
-| 🔐 **데이터베이스 보안**    | 세종대 김영갑 교수님 – 데이터베이스 보안         | [K-MOOC](https://www.kmooc.kr/) → *검색: “데이터베이스 보안 (김영갑, 세종대학교)”*                                                                                            |
-| 🧑‍💻 **소프트웨어 공학**  | 동국대 조영석 교수님 – 소프트웨어공학           | [KOCW](https://www.kocw.net/home/cview.do?kemId=1045594)                                                                                                    |
-| ☕ **Java / Spring** | Around Hub Studio – Spring Boot | [YouTube](https://www.youtube.com/playlist?list=PLlTylS8uB2fBOi6uzvMpojFrNe7sRmlzU) · [GitHub](https://github.com/Around-Hub-Studio/around-hub-spring-boot) |
+| 과목                  | 강의                                    | 링크                                                                                                                                                          |
+| :------------------ | :------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🧠 **운영체제**         | 김덕수 교수님 – Operating System            | [HPC Lab](https://hpclab.tistory.com/1?category=887083)                                                                                                     |
+| 🌐 **컴퓨터 네트워크**     | 한양대 이석복 교수님 – Computer Networks       | [KOCW](https://www.kocw.net/home/cview.do?cid=6166c077e545b736)                                                                                             |
+| 🧩 **자료구조**         | 건국대 남원홍 교수님 – 자료구조                    | [KOCW](https://www.kocw.net/home/cview.do?kemId=1190355)                                                                                                    |
+| ⚙️ **알고리즘**         | 건국대 김강일 교수님 – 알고리즘                    | [KOCW](https://www.kocw.net/home/cview.do?kemId=1278171)                                                                                                    |
+| 🗃️ **데이터베이스**      | **세종대 김영갑 – 데이터베이스** *(K-MOOC 강좌 활용)* | [K-MOOC](https://www.kmooc.kr/) → *검색: “데이터베이스 보안 (김영갑, 세종대학교)”*                                                                                            |
+| 🧑‍💻 **소프트웨어 공학**  | 동국대 조영석 교수님 – 소프트웨어공학                 | [KOCW](https://www.kocw.net/home/cview.do?kemId=1045594)                                                                                                    |
+| ☕ **Java / Spring** | Around Hub Studio – Spring Boot       | [YouTube](https://www.youtube.com/playlist?list=PLlTylS8uB2fBOi6uzvMpojFrNe7sRmlzU) · [GitHub](https://github.com/Around-Hub-Studio/around-hub-spring-boot) |
 
 ---
 
